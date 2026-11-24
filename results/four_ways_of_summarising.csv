@@ -1,0 +1,13 @@
+AntibioticName,Year,median_pct,pooled_pct,balanced_pct,pooled_panel_pct,fixed_weight_pct
+Cefotaxime,2020,43.29,14.19,42.77,13.98,13.98
+Cefotaxime,2021,43.94,15.32,43.94,14.96,13.01
+Cefotaxime,2022,41.16,16.39,39.34,16.19,13.18
+Cefotaxime,2023,41.37,17.08,41.1,16.42,13.45
+Ciprofloxacin,2020,41.54,16.31,46.72,16.45,16.45
+Ciprofloxacin,2021,42.68,18.89,44.51,17.93,15.47
+Ciprofloxacin,2022,42.95,20.59,48.12,19.06,15.56
+Ciprofloxacin,2023,43.42,21.37,47.09,20.61,16.49
+Co-trimoxazole,2020,46.56,21.97,47.64,24.04,24.04
+Co-trimoxazole,2021,46.86,24.93,52.12,25.87,22.67
+Co-trimoxazole,2022,45.56,29.33,50.18,27.44,22.52
+Co-trimoxazole,2023,50.77,28.7,50.77,27.52,23.1
